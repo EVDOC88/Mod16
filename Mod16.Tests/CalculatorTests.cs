@@ -9,6 +9,7 @@ namespace Mod16.Tests
 {
     public class CalculatorTests
     {
+
         [Test]
         public void Additional_MustReturnCorrectValue()
         {
